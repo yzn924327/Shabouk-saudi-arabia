@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'all-genders-v4';
+					src: url('2369All-Genders-v4.html') format('woff2'),
+						url('2369All-Genders-v4-2.html') format('woff');
+					  font-display: auto;
+				}
+
+				.all-genders-v4{font-family: 'all-genders-v4' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title, body.single-post .entry-title, body.page .entry-title, body.category .entry-title, .widget-title, .site-title, .site-description, body, p, li, .menu-main-menu-container li a, .menu-main-menu-container li span, #menu-main-menu li a, #menu-main-menu li span, .menu-menu-1-container li a, .menu-menu-1-container li span, #menu-menu-1 li a, #menu-menu-1 li span{
+					font-family: 'all-genders-v4' !important;
+				}
+		
